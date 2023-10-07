@@ -1,6 +1,6 @@
 # Dioxus Community 🤝
 
-We are a community organization with the goal of developing and maintaining libraries for [Dioxus](https://dioxuslabs.com/) 🧬!
+We are a community organization with the goal of developing and maintaining libraries 📦 and resources 📗 for [Dioxus](https://dioxuslabs.com/) 🧬!
 
 Libraries:
 - [dioxus-redux](https://github.com/dioxus-community/dioxus-redux) 🧰
